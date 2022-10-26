@@ -119,8 +119,10 @@ hr { display: none; }
 	margin: 0 auto;
 	padding: 0 20px;
 	background-image: url("images/banner.jpg"), url("images/banner2.jpg"), url("images/banner3.jpg");
-	background-repeat: no-repeat, no-repeat, repeat;
-
+	background-repeat: no-repeat, no-repeat, no-repeat;
+	
+    background-position: left, center center, right;    
+	background-size: 33%, 33%, 33%;
 	border-bottom: 8px solid #2B4557;
 }
 
