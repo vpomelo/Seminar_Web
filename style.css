@@ -79,9 +79,6 @@ p, ul, ol {
 	font-size: 11px;
 }
 
-ul, ol { }
-
-blockquote { }
 
 a { color: #D53707; }
 
@@ -111,8 +108,7 @@ hr { display: none; }
 
 /* Header */
 
-#header-wrapper {
-}
+
 
 #header {
 	height: 80px;
@@ -278,8 +274,6 @@ hr { display: none; }
 	padding: 0 0 0 0px;
 }
 
-.post .links .comments {
-}
 
 .post .links .permalink {
 	padding-left: 17px;
@@ -331,8 +325,7 @@ hr { display: none; }
 
 /* Calendar */
 
-#calendar {
-}
+
 
 #calendar caption {
 	padding-bottom: 5px;
@@ -384,7 +377,4 @@ hr { display: none; }
 	padding: 20px 0;
 	text-align: center;
 	line-height: normal;
-}
-
-#footer a {
 }
